@@ -1,0 +1,4 @@
+﻿  2017_tidyNumber.cpp
+c:\users\nguyen anh viet\documents\visual studio 2015\projects\2017_tidynumber\2017_tidynumber\2017_tidynumber.cpp(27): warning C4018: '<': signed/unsigned mismatch
+c:\users\nguyen anh viet\documents\visual studio 2015\projects\2017_tidynumber\2017_tidynumber\2017_tidynumber.cpp(30): warning C4018: '<': signed/unsigned mismatch
+  2017_tidyNumber.vcxproj -> C:\Users\NGUYEN Anh Viet\documents\visual studio 2015\Projects\2017_tidyNumber\Debug\2017_tidyNumber.exe
